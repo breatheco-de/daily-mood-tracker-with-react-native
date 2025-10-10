@@ -8,7 +8,7 @@
   "template": "https://github.com/4GeeksAcademy/react-native-hello",
   "difficulty": "intermediate",
   "preview": "https://github.com/breatheco-de/daily-mood-tracker-with-react-native/blob/main/assets/img-mood-tracker.png?raw=true",
-  "duration": 8,
+  "duration": 2,
   "technologies": ["react-native", "typescript", "expo", "hooks"],
   "description": {
     "us": "Build a simple mobile app that lets users record their daily mood (Happy, Neutral, Sad), see the current mood, and browse a recent history. Practice useState for local state, useEffect for lifecycle (no fetch), conditional rendering, and FlatList for performant lists. Perfect for getting started with React Native + TypeScript.",
