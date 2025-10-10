@@ -1,10 +1,9 @@
 <!-- hide -->
-# Daily Mood Tracker (React Native + TypeScript)
+# Daily Mood Tracker with React Native
 <!-- endhide -->
 
 <p align="center">
-  <!-- Reemplaza la ruta del GIF si subes uno propio -->
-  <img height="450" src="https://github.com/4GeeksAcademy/daily-mood-tracker-with-react-native/blob/main/preview.gif?raw=true" />
+  <img height="450" src="https://github.com/breatheco-de/daily-mood-tracker-with-react-native/blob/main/assets/img-mood-tracker.png?raw=true" />
 </p>
 
 Crea una aplicación móvil que permita a los usuarios registrar su estado de ánimo diario (😃 Feliz, 😐 Neutral, 😢 Triste), visualizar su estado actual y un historial reciente.

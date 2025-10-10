@@ -6,7 +6,7 @@
   },
   "slug": "daily-mood-tracker-with-react-native",
   "difficulty": "intermediate",
-  "preview": "",
+  "preview": "https://github.com/breatheco-de/daily-mood-tracker-with-react-native/blob/main/assets/img-mood-tracker.png?raw=true",
   "duration": 8,
   "technologies": ["react-native", "typescript", "expo", "hooks"],
   "description": {
