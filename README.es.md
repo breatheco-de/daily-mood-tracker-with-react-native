@@ -12,15 +12,28 @@ Crea una aplicación móvil que permita a los usuarios registrar su estado de á
   
 ## 🌱 Cómo comenzar este proyecto
 
-Crea el proyecto con TypeScript usando Expo:
+1. Clona la siguiente plantilla en tu computadora
 
 ```bash
-npx create-expo-app@latest mood-tracker --template blank-typescript
-cd mood-tracker
+https://github.com/4GeeksAcademy/react-native-hello
+```
+
+2. Instala dependencias
+
+```bash
+npm install
+```
+
+3. Inicia el proyecto con Expo
+
+```bash
 npm run start
 ```
 
-> 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
+- **iOS Simulator (macOS):** presiona i o usa npm run ios
+- **Android Emulator:** presiona a o usa npm run android
+- **Web:** presiona w o usa npm run web
+- **Si tu teléfono no conecta por LAN:** `npx expo start --tunnel`
 
 </onlyfor>
 

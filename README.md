@@ -12,15 +12,28 @@ Create a mobile app that allows users to record their daily mood (😃 Happy, �
     
 ## 🌱 How to start this project
 
-Create the project with TypeScript using Expo:
+1. Clone the following template to your computer
 
 ```bash
-npx create-expo-app@latest mood-tracker --template blank-typescript
-cd mood-tracker
+https://github.com/4GeeksAcademy/react-native-hello
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the project with Expo
+
+```bash
 npm run start
 ```
 
-> 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and pushing your code to your new repository using the `add`, `commit`, and `push` commands from the git terminal.
+- **iOS Simulator (macOS):** press i or use npm run ios
+- **Android Emulator:** press a or use npm run android
+- **Web:** press w or use npm run web
+- **If your phone does not connect via LAN:** `npx expo start --tunnel`
 
 </onlyfor>
 
