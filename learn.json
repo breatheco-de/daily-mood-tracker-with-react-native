@@ -1,0 +1,18 @@
+{
+  "gitpod": true,
+  "title": {
+    "us": "Daily Mood Tracker with React Native",
+    "es": "Daily Mood Tracker with React Native"
+  },
+  "slug": "daily-mood-tracker-with-react-native",
+  "difficulty": "intermediate",
+  "preview": "",
+  "duration": 8,
+  "technologies": ["react-native", "typescript", "expo", "hooks"],
+  "description": {
+    "us": "Build a simple mobile app that lets users record their daily mood (Happy, Neutral, Sad), see the current mood, and browse a recent history. Practice useState for local state, useEffect for lifecycle (no fetch), conditional rendering, and FlatList for performant lists. Perfect for getting started with React Native + TypeScript.",
+    "es": "Construye una app móvil que permita registrar el estado de ánimo diario (Feliz, Neutral, Triste), ver el estado actual y consultar un historial reciente. Practica useState para estado local, useEffect para ciclo de vida (sin fetch), renderizado condicional y FlatList para listas de alto rendimiento. Ideal para iniciar con React Native + TypeScript."
+  },
+  "autoPlay": false,
+  "projectType": "project"
+}
