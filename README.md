@@ -15,7 +15,7 @@ Create a mobile app that allows users to record their daily mood (ðŸ˜ƒ Happy, ðŸ
 1. Clone the following template to your computer
 
 ```bash
-https://github.com/4GeeksAcademy/react-native-hello
+https://github.com/breatheco-de/react-native-cli-hello
 ```
 
 2. Install dependencies
