@@ -15,7 +15,7 @@ Crea una aplicación móvil que permita a los usuarios registrar su estado de á
 1. Clona la siguiente plantilla en tu computadora
 
 ```bash
-https://github.com/4GeeksAcademy/react-native-hello
+https://github.com/breatheco-de/react-native-cli-hello
 ```
 
 2. Instala dependencias
@@ -24,16 +24,34 @@ https://github.com/4GeeksAcademy/react-native-hello
 npm install
 ```
 
-3. Inicia el proyecto con Expo
+3. Si es la primera vez que se ejecuta el proyecto, instalar dependencias de cocoapods
 
-```bash
-npm run start
+```sh
+bundle install
 ```
 
-- **iOS Simulator (macOS):** presiona i o usa npm run ios
-- **Android Emulator:** presiona a o usa npm run android
-- **Web:** presiona w o usa npm run web
-- **Si tu teléfono no conecta por LAN:** `npx expo start --tunnel`
+Luego, cada vez que se actualicen estas dependencias, ejecutar:
+
+```sh
+bundle exec pod install
+```
+
+4. Iniciar servidor de prueba local (Metro server)
+```sh
+npx react-native start --reset-cache
+```
+
+### Correr el proyecto en Android
+```sh
+npm run android
+```
+### Correr el proyecto en iOS
+
+Ejecutar cocoapods
+```sh
+cd ios
+pod install
+```
 
 </onlyfor>
 
