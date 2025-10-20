@@ -24,16 +24,38 @@ https://github.com/4GeeksAcademy/react-native-hello
 npm install
 ```
 
-3. Start the project with Expo
+3. If this is the first time running the project, install Cocoapods dependencies
 
-```bash
-npm run start
+```sh
+bundle install
 ```
 
-- **iOS Simulator (macOS):** press i or use npm run ios
-- **Android Emulator:** press a or use npm run android
-- **Web:** press w or use npm run web
-- **If your phone does not connect via LAN:** `npx expo start --tunnel`
+Then, whenever these dependencies are updated, run:
+
+```sh
+bundle exec pod install
+```
+
+4. Start the local development server (Metro server)
+
+```sh
+npx react-native start --reset-cache
+```
+
+### Run the project on Android
+
+```sh
+npm run android
+```
+
+### Run the project on iOS
+
+Install Cocoapods
+
+```sh
+cd ios
+pod install
+```
 
 </onlyfor>
 
