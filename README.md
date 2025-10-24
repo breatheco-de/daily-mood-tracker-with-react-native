@@ -8,7 +8,6 @@
 
 Create a mobile app that allows users to record their daily mood (😃 Happy, 😐 Neutral, 😢 Sad), view their current mood, and see a recent history.
 
-<onlyfor saas="false" withBanner="false">
     
 ## 🌱 How to start this project
 
@@ -56,8 +55,6 @@ Install Cocoapods
 cd ios
 pod install
 ```
-
-</onlyfor>
 
 ## 📝 Instructions:
 
