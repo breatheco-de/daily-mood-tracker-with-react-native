@@ -8,7 +8,7 @@
 
 Crea una aplicación móvil que permita a los usuarios registrar su estado de ánimo diario (😃 Feliz, 😐 Neutral, 😢 Triste), visualizar su estado actual y un historial reciente.
 
-<onlyfor saas="false" withBanner="false">
+<onlyfor>
   
 ## 🌱 Cómo comenzar este proyecto
 
