@@ -4,6 +4,7 @@
     "us": "Daily Mood Tracker with React Native",
     "es": "Daily Mood Tracker with React Native"
   },
+  "solution":"https://github.com/breatheco-de/daily-mood-tracker-with-react-native/tree/solution",
   "slug": "daily-mood-tracker-with-react-native",
   "template": "https://github.com/breatheco-de/react-native-cli-hello",
   "difficulty": "intermediate",
